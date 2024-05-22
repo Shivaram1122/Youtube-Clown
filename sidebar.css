@@ -1,0 +1,88 @@
+.sidebar{
+    background-color: white;
+    position: fixed;
+    left:0;
+    bottom: 0;
+    top: 80px;
+    width: 70px;
+
+}
+.sidebar-link{
+    height: 65px;
+    background-color: white;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+    
+    
+}
+.sidebar-link:hover{
+    background-color: rgb(224, 221, 221);
+}
+.home{
+    height: 25px;
+    margin-left: 22px;
+    margin-top: 5px;
+}
+.explore{
+    height: 25px;
+    margin-left: 22px;
+
+}
+.subs-icon{
+    height: 25px;
+    margin-left: 22px;
+
+}
+.original{
+    height: 25px;
+    margin-left: 22px;
+
+}
+.youtube-music{
+    height: 25px;
+    margin-left: 22px;
+
+}   
+.library{
+    height: 25px;
+    margin-left: 22px;
+
+}
+.home-spell{
+    margin-left: 20px;
+    margin-top: 0px;
+    font-size: 10px;
+
+
+}
+.explore-spell{
+    margin-left: 20px;
+    margin-top: 0px;
+    font-size: 10px;
+
+}
+.subs-spell{
+    margin-left: 10px;
+    margin-top: 0px;
+    font-size: 10px;
+
+}
+.ori-spell{
+
+    margin-left: 13px;
+    margin-top: 0px;
+    font-size: 10px;
+}
+.you-spell{
+    margin-left: 15px;
+    margin-top: 0px;
+    font-size: 10px;
+
+}
+.lib-spell{
+    margin-left: 20px;
+    margin-top: 0px;
+    font-size: 10px;
+
+}
